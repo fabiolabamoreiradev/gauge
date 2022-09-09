@@ -52,3 +52,4 @@ Você terá que criar um endpoint que receba um arquivo e o armazene localmente 
 
 # Instruções para iniciar ambiente Docker local
 Adicione aqui as instruções para que a equipe de desenvolvimento possa testar o seu projeto.
+# gauge
